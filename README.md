@@ -1,8 +1,9 @@
 # 🚀 Bruno - Tech & Marketing Specialist
 
-<div align="center">
+<div align="left">
 
 **Desenvolvedor Front-end | WordPress | Automações | Gestão de Tráfego**
+
 [![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0077b5)](https://www.linkedin.com/in/bruno-oliveira-0726a6172?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Instagram](https://img.shields.io/badge/📱-Instagram-e4405f)](https://www.instagram.com/brunooliveiraweb?igsh=NzJwMWU2YWJpbTBt)
 
