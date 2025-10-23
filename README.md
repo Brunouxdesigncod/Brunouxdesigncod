@@ -2,13 +2,9 @@
 
 <div align="center">
 
-![Header](https://via.placeholder.com/800x200/667eea/ffffff?text=Tech+%26+Marketing+Specialist)
-
 **Desenvolvedor Front-end | WordPress | Automações | Gestão de Tráfego**
-
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-667eea)](https://seusite.com)
-[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0077b5)](https://linkedin.com/in/seuperfil)
-[![Instagram](https://img.shields.io/badge/📱-Instagram-e4405f)](https://instagram.com/seuperfil)
+[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0077b5)](https://www.linkedin.com/in/bruno-oliveira-0726a6172?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Instagram](https://img.shields.io/badge/📱-Instagram-e4405f)](https://www.instagram.com/brunooliveiraweb?igsh=NzJwMWU2YWJpbTBt)
 
 </div>
 
