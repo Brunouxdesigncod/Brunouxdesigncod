@@ -14,7 +14,7 @@
 ### **💻 Desenvolvimento**
 | Área | Tecnologias | Nível |
 |------|-------------|-------|
-| **Front-end** | HTML5, CSS3, JavaScript, Responsive Design | ⭐⭐⭐⭐⭐ |
+| **Front-end** | HTML5, CSS3, JavaScript, Bootstrap | ⭐⭐⭐⭐⭐ |
 | **CMS** | WordPress, Custom Themes, Plugins | ⭐⭐⭐⭐⭐ |
 | **Design** | UX/UI Design, Figma, Adobe XD | ⭐⭐⭐⭐ |
 
