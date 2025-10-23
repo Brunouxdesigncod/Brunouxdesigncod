@@ -2,7 +2,7 @@
 
 <div align="left">
 
-**Desenvolvedor Front-end | WordPress | Automações | Gestão de Tráfego**
+**Desenvolvedor Front-end | WordPress | Automações | Gestão de Tráfego | Ux Design**
 
 [![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0077b5)](https://www.linkedin.com/in/bruno-oliveira-0726a6172)
 [![Instagram](https://img.shields.io/badge/📱-Instagram-e4405f)](https://www.instagram.com/brunooliveiraweb)
